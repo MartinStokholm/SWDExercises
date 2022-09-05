@@ -10,3 +10,15 @@ C:\Users\msldk\Desktop\Uni\SoftwareTeknologi\4Semester\SWD\Exercises\Lesson2\1.2
 C:\Users\msldk\Desktop\Uni\SoftwareTeknologi\4Semester\SWD\Exercises\Lesson2\1.2 ReportGeneratorHandout\ReportGenerator\ReportGenerator\obj\Debug\net6.0\refint\ReportGenerator.dll
 C:\Users\msldk\Desktop\Uni\SoftwareTeknologi\4Semester\SWD\Exercises\Lesson2\1.2 ReportGeneratorHandout\ReportGenerator\ReportGenerator\obj\Debug\net6.0\ReportGenerator.pdb
 C:\Users\msldk\Desktop\Uni\SoftwareTeknologi\4Semester\SWD\Exercises\Lesson2\1.2 ReportGeneratorHandout\ReportGenerator\ReportGenerator\obj\Debug\net6.0\ref\ReportGenerator.dll
+C:\Users\msldk\Desktop\Uni\SoftwareTeknologi\4Semester\SWD\SWDExercises\Lesson2\1.2 ReportGeneratorHandout\ReportGenerator\ReportGenerator\bin\Debug\net6.0\ReportGenerator.deps.json
+C:\Users\msldk\Desktop\Uni\SoftwareTeknologi\4Semester\SWD\SWDExercises\Lesson2\1.2 ReportGeneratorHandout\ReportGenerator\ReportGenerator\bin\Debug\net6.0\ReportGenerator.dll
+C:\Users\msldk\Desktop\Uni\SoftwareTeknologi\4Semester\SWD\SWDExercises\Lesson2\1.2 ReportGeneratorHandout\ReportGenerator\ReportGenerator\bin\Debug\net6.0\ReportGenerator.pdb
+C:\Users\msldk\Desktop\Uni\SoftwareTeknologi\4Semester\SWD\SWDExercises\Lesson2\1.2 ReportGeneratorHandout\ReportGenerator\ReportGenerator\obj\Debug\net6.0\ReportGenerator.csproj.AssemblyReference.cache
+C:\Users\msldk\Desktop\Uni\SoftwareTeknologi\4Semester\SWD\SWDExercises\Lesson2\1.2 ReportGeneratorHandout\ReportGenerator\ReportGenerator\obj\Debug\net6.0\ReportGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msldk\Desktop\Uni\SoftwareTeknologi\4Semester\SWD\SWDExercises\Lesson2\1.2 ReportGeneratorHandout\ReportGenerator\ReportGenerator\obj\Debug\net6.0\ReportGenerator.AssemblyInfoInputs.cache
+C:\Users\msldk\Desktop\Uni\SoftwareTeknologi\4Semester\SWD\SWDExercises\Lesson2\1.2 ReportGeneratorHandout\ReportGenerator\ReportGenerator\obj\Debug\net6.0\ReportGenerator.AssemblyInfo.cs
+C:\Users\msldk\Desktop\Uni\SoftwareTeknologi\4Semester\SWD\SWDExercises\Lesson2\1.2 ReportGeneratorHandout\ReportGenerator\ReportGenerator\obj\Debug\net6.0\ReportGenerator.csproj.CoreCompileInputs.cache
+C:\Users\msldk\Desktop\Uni\SoftwareTeknologi\4Semester\SWD\SWDExercises\Lesson2\1.2 ReportGeneratorHandout\ReportGenerator\ReportGenerator\obj\Debug\net6.0\ReportGenerator.dll
+C:\Users\msldk\Desktop\Uni\SoftwareTeknologi\4Semester\SWD\SWDExercises\Lesson2\1.2 ReportGeneratorHandout\ReportGenerator\ReportGenerator\obj\Debug\net6.0\refint\ReportGenerator.dll
+C:\Users\msldk\Desktop\Uni\SoftwareTeknologi\4Semester\SWD\SWDExercises\Lesson2\1.2 ReportGeneratorHandout\ReportGenerator\ReportGenerator\obj\Debug\net6.0\ReportGenerator.pdb
+C:\Users\msldk\Desktop\Uni\SoftwareTeknologi\4Semester\SWD\SWDExercises\Lesson2\1.2 ReportGeneratorHandout\ReportGenerator\ReportGenerator\obj\Debug\net6.0\ref\ReportGenerator.dll

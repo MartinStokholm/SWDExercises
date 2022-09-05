@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ReportGeneratorConsoleApp/1.0.0": {
+        "dependencies": {
+          "ReportGeneratorLib": "1.0.0"
+        },
+        "runtime": {
+          "ReportGeneratorConsoleApp.dll": {}
+        }
+      },
+      "ReportGeneratorLib/1.0.0": {
+        "runtime": {
+          "ReportGeneratorLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ReportGeneratorConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ReportGeneratorLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

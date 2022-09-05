@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "ReportGeneratorLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/ReportGeneratorLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ReportGeneratorLib.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "ReportGeneratorLib/1.0.0": {
+      "type": "project",
+      "path": "../ReportGenerator/ReportGeneratorLib.csproj",
+      "msbuildProject": "../ReportGenerator/ReportGeneratorLib.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "ReportGeneratorLib >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\msldk\\.nuget\\packages\\": {},
@@ -14,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\msldk\\Desktop\\Uni\\SoftwareTeknologi\\4Semester\\SWD\\SWDExercises\\Lesson2\\1.2 ReportGeneratorHandout\\ReportGenerator\\ReportGenerator\\ReportGeneratorLib.csproj",
-      "projectName": "ReportGeneratorLib",
-      "projectPath": "C:\\Users\\msldk\\Desktop\\Uni\\SoftwareTeknologi\\4Semester\\SWD\\SWDExercises\\Lesson2\\1.2 ReportGeneratorHandout\\ReportGenerator\\ReportGenerator\\ReportGeneratorLib.csproj",
+      "projectUniqueName": "C:\\Users\\msldk\\Desktop\\Uni\\SoftwareTeknologi\\4Semester\\SWD\\SWDExercises\\Lesson2\\1.2 ReportGeneratorHandout\\ReportGenerator\\ReportGeneratorConsoleApp\\ReportGeneratorConsoleApp.csproj",
+      "projectName": "ReportGeneratorConsoleApp",
+      "projectPath": "C:\\Users\\msldk\\Desktop\\Uni\\SoftwareTeknologi\\4Semester\\SWD\\SWDExercises\\Lesson2\\1.2 ReportGeneratorHandout\\ReportGenerator\\ReportGeneratorConsoleApp\\ReportGeneratorConsoleApp.csproj",
       "packagesPath": "C:\\Users\\msldk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\msldk\\Desktop\\Uni\\SoftwareTeknologi\\4Semester\\SWD\\SWDExercises\\Lesson2\\1.2 ReportGeneratorHandout\\ReportGenerator\\ReportGenerator\\obj\\",
+      "outputPath": "C:\\Users\\msldk\\Desktop\\Uni\\SoftwareTeknologi\\4Semester\\SWD\\SWDExercises\\Lesson2\\1.2 ReportGeneratorHandout\\ReportGenerator\\ReportGeneratorConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -39,7 +58,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\msldk\\Desktop\\Uni\\SoftwareTeknologi\\4Semester\\SWD\\SWDExercises\\Lesson2\\1.2 ReportGeneratorHandout\\ReportGenerator\\ReportGenerator\\ReportGeneratorLib.csproj": {
+              "projectPath": "C:\\Users\\msldk\\Desktop\\Uni\\SoftwareTeknologi\\4Semester\\SWD\\SWDExercises\\Lesson2\\1.2 ReportGeneratorHandout\\ReportGenerator\\ReportGenerator\\ReportGeneratorLib.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
