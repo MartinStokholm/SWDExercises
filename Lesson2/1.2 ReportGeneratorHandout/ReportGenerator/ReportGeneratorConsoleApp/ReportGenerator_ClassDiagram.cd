@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ReportGeneratorLib.Employee">
+    <Position X="2" Y="4.75" Width="2" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="ReportGeneratorLib.EmployeeDB">
+    <Position X="4.25" Y="4.75" Width="2" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="ReportGeneratorLib.ReportGenerator">
+    <Position X="6.5" Y="4.75" Width="1.75" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="ReportGeneratorLib.Printers.AgeFirstPrinter">
+    <Position X="4.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ReportGeneratorLib.Printers.NameFirstPrinter">
+    <Position X="6" Y="2.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ReportGeneratorLib.Printers.SalaryFirstPrinter">
+    <Position X="2.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ReportGeneratorConsoleApp.ReportGeneratorClient">
+    <Position X="8.75" Y="2.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>ReportGeneratorClient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="ReportGeneratorLib.Printers.IReportPrinter">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
