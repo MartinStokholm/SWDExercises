@@ -1,0 +1,16 @@
+C:\Users\msldk\Desktop\Uni\SoftwareTeknologi\4Semester\SWD\Exercises\Lesson1\CardGame\bin\Debug\net5.0\CardGame.exe
+C:\Users\msldk\Desktop\Uni\SoftwareTeknologi\4Semester\SWD\Exercises\Lesson1\CardGame\bin\Debug\net5.0\CardGame.deps.json
+C:\Users\msldk\Desktop\Uni\SoftwareTeknologi\4Semester\SWD\Exercises\Lesson1\CardGame\bin\Debug\net5.0\CardGame.runtimeconfig.json
+C:\Users\msldk\Desktop\Uni\SoftwareTeknologi\4Semester\SWD\Exercises\Lesson1\CardGame\bin\Debug\net5.0\CardGame.runtimeconfig.dev.json
+C:\Users\msldk\Desktop\Uni\SoftwareTeknologi\4Semester\SWD\Exercises\Lesson1\CardGame\bin\Debug\net5.0\CardGame.dll
+C:\Users\msldk\Desktop\Uni\SoftwareTeknologi\4Semester\SWD\Exercises\Lesson1\CardGame\bin\Debug\net5.0\ref\CardGame.dll
+C:\Users\msldk\Desktop\Uni\SoftwareTeknologi\4Semester\SWD\Exercises\Lesson1\CardGame\bin\Debug\net5.0\CardGame.pdb
+C:\Users\msldk\Desktop\Uni\SoftwareTeknologi\4Semester\SWD\Exercises\Lesson1\CardGame\obj\Debug\net5.0\CardGame.csprojAssemblyReference.cache
+C:\Users\msldk\Desktop\Uni\SoftwareTeknologi\4Semester\SWD\Exercises\Lesson1\CardGame\obj\Debug\net5.0\CardGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msldk\Desktop\Uni\SoftwareTeknologi\4Semester\SWD\Exercises\Lesson1\CardGame\obj\Debug\net5.0\CardGame.AssemblyInfoInputs.cache
+C:\Users\msldk\Desktop\Uni\SoftwareTeknologi\4Semester\SWD\Exercises\Lesson1\CardGame\obj\Debug\net5.0\CardGame.AssemblyInfo.cs
+C:\Users\msldk\Desktop\Uni\SoftwareTeknologi\4Semester\SWD\Exercises\Lesson1\CardGame\obj\Debug\net5.0\CardGame.csproj.CoreCompileInputs.cache
+C:\Users\msldk\Desktop\Uni\SoftwareTeknologi\4Semester\SWD\Exercises\Lesson1\CardGame\obj\Debug\net5.0\CardGame.dll
+C:\Users\msldk\Desktop\Uni\SoftwareTeknologi\4Semester\SWD\Exercises\Lesson1\CardGame\obj\Debug\net5.0\ref\CardGame.dll
+C:\Users\msldk\Desktop\Uni\SoftwareTeknologi\4Semester\SWD\Exercises\Lesson1\CardGame\obj\Debug\net5.0\CardGame.pdb
+C:\Users\msldk\Desktop\Uni\SoftwareTeknologi\4Semester\SWD\Exercises\Lesson1\CardGame\obj\Debug\net5.0\CardGame.genruntimeconfig.cache
