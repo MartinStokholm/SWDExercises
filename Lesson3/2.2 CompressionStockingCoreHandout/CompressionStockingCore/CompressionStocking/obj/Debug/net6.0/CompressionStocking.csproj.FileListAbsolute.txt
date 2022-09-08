@@ -1,0 +1,12 @@
+C:\Users\msldk\Desktop\Uni\SoftwareTeknologi\4Semester\SWD\SWDExercises\Lesson3\2.2 CompressionStockingCoreHandout\CompressionStockingCore\CompressionStocking\bin\Debug\net6.0\CompressionStocking.deps.json
+C:\Users\msldk\Desktop\Uni\SoftwareTeknologi\4Semester\SWD\SWDExercises\Lesson3\2.2 CompressionStockingCoreHandout\CompressionStockingCore\CompressionStocking\bin\Debug\net6.0\CompressionStocking.dll
+C:\Users\msldk\Desktop\Uni\SoftwareTeknologi\4Semester\SWD\SWDExercises\Lesson3\2.2 CompressionStockingCoreHandout\CompressionStockingCore\CompressionStocking\bin\Debug\net6.0\CompressionStocking.pdb
+C:\Users\msldk\Desktop\Uni\SoftwareTeknologi\4Semester\SWD\SWDExercises\Lesson3\2.2 CompressionStockingCoreHandout\CompressionStockingCore\CompressionStocking\obj\Debug\net6.0\CompressionStocking.csproj.AssemblyReference.cache
+C:\Users\msldk\Desktop\Uni\SoftwareTeknologi\4Semester\SWD\SWDExercises\Lesson3\2.2 CompressionStockingCoreHandout\CompressionStockingCore\CompressionStocking\obj\Debug\net6.0\CompressionStocking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msldk\Desktop\Uni\SoftwareTeknologi\4Semester\SWD\SWDExercises\Lesson3\2.2 CompressionStockingCoreHandout\CompressionStockingCore\CompressionStocking\obj\Debug\net6.0\CompressionStocking.AssemblyInfoInputs.cache
+C:\Users\msldk\Desktop\Uni\SoftwareTeknologi\4Semester\SWD\SWDExercises\Lesson3\2.2 CompressionStockingCoreHandout\CompressionStockingCore\CompressionStocking\obj\Debug\net6.0\CompressionStocking.AssemblyInfo.cs
+C:\Users\msldk\Desktop\Uni\SoftwareTeknologi\4Semester\SWD\SWDExercises\Lesson3\2.2 CompressionStockingCoreHandout\CompressionStockingCore\CompressionStocking\obj\Debug\net6.0\CompressionStocking.csproj.CoreCompileInputs.cache
+C:\Users\msldk\Desktop\Uni\SoftwareTeknologi\4Semester\SWD\SWDExercises\Lesson3\2.2 CompressionStockingCoreHandout\CompressionStockingCore\CompressionStocking\obj\Debug\net6.0\CompressionStocking.dll
+C:\Users\msldk\Desktop\Uni\SoftwareTeknologi\4Semester\SWD\SWDExercises\Lesson3\2.2 CompressionStockingCoreHandout\CompressionStockingCore\CompressionStocking\obj\Debug\net6.0\refint\CompressionStocking.dll
+C:\Users\msldk\Desktop\Uni\SoftwareTeknologi\4Semester\SWD\SWDExercises\Lesson3\2.2 CompressionStockingCoreHandout\CompressionStockingCore\CompressionStocking\obj\Debug\net6.0\CompressionStocking.pdb
+C:\Users\msldk\Desktop\Uni\SoftwareTeknologi\4Semester\SWD\SWDExercises\Lesson3\2.2 CompressionStockingCoreHandout\CompressionStockingCore\CompressionStocking\obj\Debug\net6.0\ref\CompressionStocking.dll
