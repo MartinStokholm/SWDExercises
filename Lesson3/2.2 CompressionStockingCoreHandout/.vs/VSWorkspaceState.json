@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\CompressionStockingCore",
+    "\\CompressionStockingCore\\CompressionStocking",
+    "\\CompressionStockingCore\\CompressionStockingApplication"
   ],
-  "SelectedNode": "\\CompressionStockingCore.sln",
+  "SelectedNode": "\\CompressionStockingCore\\CompressionStockingApplication\\CompressionStockingApplication.cs",
   "PreviewInSolutionExplorer": false
 }

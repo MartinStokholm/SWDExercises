@@ -1,6 +1,6 @@
 namespace CompressionStocking
 {
-    public interface ICompressionCtrl
+    public interface ICompressionCtrl : ITimer
     {
         void Compress();
         void Decompress();

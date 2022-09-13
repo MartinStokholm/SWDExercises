@@ -2,21 +2,38 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Threading;
+using System.Timers;
 using CompressionStocking;
+using Timer = System.Timers.Timer;
 
 namespace CompressionStockingApplication
 {
-
     class StubCompressionCtrl : ICompressionCtrl
     {
         public void Compress()
         {
             Console.WriteLine("StubCompressionCtrl::Compress() called");
+            SetupTimer(5000);
         }
 
         public void Decompress()
         {
             Console.WriteLine("StubCompressionCtrl::Decompress() called");
+        }
+
+        public void DisplayTimeEvent(object source, ElapsedEventArgs e)
+        {
+            Console.WriteLine($"Timer event triggered at {DateTime.Now}");
+            source.Stop();
+        }
+
+        public void SetupTimer(double ms)
+        {
+            Timer newTimer = new Timer();
+            newTimer.Elapsed += new ElapsedEventHandler(DisplayTimeEvent);
+            newTimer.Interval = ms;
+            newTimer.Start();
         }
     }
 

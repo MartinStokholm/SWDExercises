@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
+
 namespace CompressionStocking
 {
     public interface IBtnHandler
@@ -10,7 +11,6 @@ namespace CompressionStocking
         void StartBtnPushed();
         void StopBtnPushed();
     }
-
 
     public class StockingCtrl : IBtnHandler
     {
