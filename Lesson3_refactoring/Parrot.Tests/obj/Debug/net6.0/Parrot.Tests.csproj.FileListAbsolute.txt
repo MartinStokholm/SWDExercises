@@ -12,7 +12,6 @@
 /Users/my-thanh/Desktop/Softwareteknologi/4. semester/SWT/SWDExercises/Lesson3_refactoring/Parrot.Tests/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.Common.dll
 /Users/my-thanh/Desktop/Softwareteknologi/4. semester/SWT/SWDExercises/Lesson3_refactoring/Parrot.Tests/bin/Debug/net6.0/testhost.dll
 /Users/my-thanh/Desktop/Softwareteknologi/4. semester/SWT/SWDExercises/Lesson3_refactoring/Parrot.Tests/bin/Debug/net6.0/Newtonsoft.Json.dll
-/Users/my-thanh/Desktop/Softwareteknologi/4. semester/SWT/SWDExercises/Lesson3_refactoring/Parrot.Tests/bin/Debug/net6.0/System.Xml.XPath.XmlDocument.dll
 /Users/my-thanh/Desktop/Softwareteknologi/4. semester/SWT/SWDExercises/Lesson3_refactoring/Parrot.Tests/bin/Debug/net6.0/xunit.abstractions.dll
 /Users/my-thanh/Desktop/Softwareteknologi/4. semester/SWT/SWDExercises/Lesson3_refactoring/Parrot.Tests/bin/Debug/net6.0/xunit.assert.dll
 /Users/my-thanh/Desktop/Softwareteknologi/4. semester/SWT/SWDExercises/Lesson3_refactoring/Parrot.Tests/bin/Debug/net6.0/xunit.core.dll
@@ -95,3 +94,9 @@
 /Users/my-thanh/Desktop/Softwareteknologi/4. semester/SWT/SWDExercises/Lesson3_refactoring/Parrot.Tests/obj/Debug/net6.0/Parrot.Tests.pdb
 /Users/my-thanh/Desktop/Softwareteknologi/4. semester/SWT/SWDExercises/Lesson3_refactoring/Parrot.Tests/obj/Debug/net6.0/Parrot.Tests.genruntimeconfig.cache
 /Users/my-thanh/Desktop/Softwareteknologi/4. semester/SWT/SWDExercises/Lesson3_refactoring/Parrot.Tests/obj/Debug/net6.0/ref/Parrot.Tests.dll
+/Users/my-thanh/Desktop/Softwareteknologi/4. semester/SWT/SWDExercises/Lesson3_refactoring/Parrot.Tests/bin/Debug/net6.0/Parrot.deps.json
+/Users/my-thanh/Desktop/Softwareteknologi/4. semester/SWT/SWDExercises/Lesson3_refactoring/Parrot.Tests/bin/Debug/net6.0/Parrot.runtimeconfig.json
+/Users/my-thanh/Desktop/Softwareteknologi/4. semester/SWT/SWDExercises/Lesson3_refactoring/Parrot.Tests/bin/Debug/net6.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/Users/my-thanh/Desktop/Softwareteknologi/4. semester/SWT/SWDExercises/Lesson3_refactoring/Parrot.Tests/bin/Debug/net6.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+/Users/my-thanh/Desktop/Softwareteknologi/4. semester/SWT/SWDExercises/Lesson3_refactoring/Parrot.Tests/bin/Debug/net6.0/Microsoft.TestPlatform.Utilities.dll
+/Users/my-thanh/Desktop/Softwareteknologi/4. semester/SWT/SWDExercises/Lesson3_refactoring/Parrot.Tests/bin/Debug/net6.0/NuGet.Frameworks.dll

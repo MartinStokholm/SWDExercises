@@ -1,7 +1,7 @@
 ﻿using System;
 namespace Parrot
 {
-    public class AfricanParrot
+    public class AfricanParrot : Parrot
     {
         private readonly int _numberOfCoconuts;
  
@@ -10,14 +10,11 @@ namespace Parrot
             _numberOfCoconuts = numberOfCoconuts;
         }
 
-        public virtual double GetSpeed()
+        public double GetSpeed()
         {
-            
-      
+     
             return Math.Max(0, GetBaseSpeed() - GetLoadFactor() * _numberOfCoconuts);
                
-
-           // throw new Exception("Should be unreachable");
         }
 
         public double GetLoadFactor()

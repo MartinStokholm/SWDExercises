@@ -109,6 +109,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.3.1, )"
+            },
             "xunit.abstractions": {
               "target": "Package",
               "version": "[2.0.3, )"

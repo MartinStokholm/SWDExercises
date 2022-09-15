@@ -2,7 +2,7 @@
 
 namespace Parrot
 {
-    public class NorwegianBlueParrot
+    public class NorwegianBlueParrot : Parrot
     {
         private readonly bool _isNailed;
 
@@ -15,13 +15,11 @@ namespace Parrot
             _isNailed = isNailed;
         }
 
-        public virtual double GetSpeed()
+        public double GetSpeed()
         {
             
             return _isNailed ? 0 : GetBaseSpeed(_voltage);
-            
 
-           // throw new Exception("Should be unreachable");
         }
 
         public double GetBaseSpeed(double voltage)

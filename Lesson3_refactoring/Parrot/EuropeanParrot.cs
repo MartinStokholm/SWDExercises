@@ -13,9 +13,7 @@ namespace Parrot
         {
             
           return GetBaseSpeed();
-             
-           // throw new Exception("Should be unreachable");
-      
+                   
         }
 
         public double GetBaseSpeed()
