@@ -1,0 +1,15 @@
+/Users/my-thanh/Desktop/Softwareteknologi/4. semester/SWT/SWDExercises/Lesson3_refactoring/Parrot/bin/Debug/net6.0/Parrot.deps.json
+/Users/my-thanh/Desktop/Softwareteknologi/4. semester/SWT/SWDExercises/Lesson3_refactoring/Parrot/bin/Debug/net6.0/Parrot.dll
+/Users/my-thanh/Desktop/Softwareteknologi/4. semester/SWT/SWDExercises/Lesson3_refactoring/Parrot/bin/Debug/net6.0/Parrot.pdb
+/Users/my-thanh/Desktop/Softwareteknologi/4. semester/SWT/SWDExercises/Lesson3_refactoring/Parrot/obj/Debug/net6.0/Parrot.csproj.AssemblyReference.cache
+/Users/my-thanh/Desktop/Softwareteknologi/4. semester/SWT/SWDExercises/Lesson3_refactoring/Parrot/obj/Debug/net6.0/Parrot.GeneratedMSBuildEditorConfig.editorconfig
+/Users/my-thanh/Desktop/Softwareteknologi/4. semester/SWT/SWDExercises/Lesson3_refactoring/Parrot/obj/Debug/net6.0/Parrot.AssemblyInfoInputs.cache
+/Users/my-thanh/Desktop/Softwareteknologi/4. semester/SWT/SWDExercises/Lesson3_refactoring/Parrot/obj/Debug/net6.0/Parrot.AssemblyInfo.cs
+/Users/my-thanh/Desktop/Softwareteknologi/4. semester/SWT/SWDExercises/Lesson3_refactoring/Parrot/obj/Debug/net6.0/Parrot.csproj.CoreCompileInputs.cache
+/Users/my-thanh/Desktop/Softwareteknologi/4. semester/SWT/SWDExercises/Lesson3_refactoring/Parrot/obj/Debug/net6.0/Parrot.dll
+/Users/my-thanh/Desktop/Softwareteknologi/4. semester/SWT/SWDExercises/Lesson3_refactoring/Parrot/obj/Debug/net6.0/refint/Parrot.dll
+/Users/my-thanh/Desktop/Softwareteknologi/4. semester/SWT/SWDExercises/Lesson3_refactoring/Parrot/obj/Debug/net6.0/Parrot.pdb
+/Users/my-thanh/Desktop/Softwareteknologi/4. semester/SWT/SWDExercises/Lesson3_refactoring/Parrot/obj/Debug/net6.0/ref/Parrot.dll
+/Users/my-thanh/Desktop/Softwareteknologi/4. semester/SWT/SWDExercises/Lesson3_refactoring/Parrot/bin/Debug/net6.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/my-thanh/Desktop/Softwareteknologi/4. semester/SWT/SWDExercises/Lesson3_refactoring/Parrot/bin/Debug/net6.0/xunit.runner.reporters.netcoreapp10.dll
+/Users/my-thanh/Desktop/Softwareteknologi/4. semester/SWT/SWDExercises/Lesson3_refactoring/Parrot/bin/Debug/net6.0/xunit.runner.utility.netcoreapp10.dll
