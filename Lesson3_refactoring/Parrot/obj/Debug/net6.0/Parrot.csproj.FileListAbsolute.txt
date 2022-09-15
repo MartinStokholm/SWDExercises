@@ -1,0 +1,12 @@
+C:\Users\msldk\Desktop\Uni\SoftwareTeknologi\4Semester\SWD\SWDExercises\Lesson3_refactoring\Parrot\bin\Debug\net6.0\Parrot.deps.json
+C:\Users\msldk\Desktop\Uni\SoftwareTeknologi\4Semester\SWD\SWDExercises\Lesson3_refactoring\Parrot\bin\Debug\net6.0\Parrot.dll
+C:\Users\msldk\Desktop\Uni\SoftwareTeknologi\4Semester\SWD\SWDExercises\Lesson3_refactoring\Parrot\bin\Debug\net6.0\Parrot.pdb
+C:\Users\msldk\Desktop\Uni\SoftwareTeknologi\4Semester\SWD\SWDExercises\Lesson3_refactoring\Parrot\obj\Debug\net6.0\Parrot.csproj.AssemblyReference.cache
+C:\Users\msldk\Desktop\Uni\SoftwareTeknologi\4Semester\SWD\SWDExercises\Lesson3_refactoring\Parrot\obj\Debug\net6.0\Parrot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msldk\Desktop\Uni\SoftwareTeknologi\4Semester\SWD\SWDExercises\Lesson3_refactoring\Parrot\obj\Debug\net6.0\Parrot.AssemblyInfoInputs.cache
+C:\Users\msldk\Desktop\Uni\SoftwareTeknologi\4Semester\SWD\SWDExercises\Lesson3_refactoring\Parrot\obj\Debug\net6.0\Parrot.AssemblyInfo.cs
+C:\Users\msldk\Desktop\Uni\SoftwareTeknologi\4Semester\SWD\SWDExercises\Lesson3_refactoring\Parrot\obj\Debug\net6.0\Parrot.csproj.CoreCompileInputs.cache
+C:\Users\msldk\Desktop\Uni\SoftwareTeknologi\4Semester\SWD\SWDExercises\Lesson3_refactoring\Parrot\obj\Debug\net6.0\Parrot.dll
+C:\Users\msldk\Desktop\Uni\SoftwareTeknologi\4Semester\SWD\SWDExercises\Lesson3_refactoring\Parrot\obj\Debug\net6.0\refint\Parrot.dll
+C:\Users\msldk\Desktop\Uni\SoftwareTeknologi\4Semester\SWD\SWDExercises\Lesson3_refactoring\Parrot\obj\Debug\net6.0\Parrot.pdb
+C:\Users\msldk\Desktop\Uni\SoftwareTeknologi\4Semester\SWD\SWDExercises\Lesson3_refactoring\Parrot\obj\Debug\net6.0\ref\Parrot.dll
