@@ -1,0 +1,46 @@
+@startuml teletubsCD
+
+IBigTelephone <|.. BigTelephone
+ITeletubbies <|.. Teletubbies
+ITeletubbies "4" <-- "1" BigTelephone  
+BigTelephoneData <.. ITeletubbies
+BigTelephoneData <.. BigTelephone 
+BigTelephoneData <.. Teletubbies
+
+abstract class IBigTelephone{
+     {method} +Attach(ITeletubbies)
+     {method} +Detach(ITeletubies)
+     {method} +Notify()
+}
+
+class BigTelephoneData
+{
+    
+}
+
+class BigTelephone{
+    {field} +state: BigTelephoneData
+
+    {method} +SetData()
+    {method} +Notify()
+    
+}
+
+Interface ITeletubbies {
+    {method} +Update(state: BigTelephoneData)
+}
+
+class Teletubbies {
+    {field} +name: String
+    {field} +color: String
+
+    {method} +Update(state: BigTelephoneData)
+    {method} +Teletubbies(name: String, color: String)
+    {method} -WatchTV()
+    {method} -WakeUp()
+    {method} -EatDinner()
+    {method} -SayByeBye()
+    
+}
+
+@enduml
