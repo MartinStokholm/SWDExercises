@@ -5,7 +5,7 @@
         public static void Main(string[] args)
         {
             // Create instances of the concrete subject and concrete observer
-            BigTelephone bigTelephone = new ConreteBigBigTelphone();
+            BigTelephone bigTelephone = new BigTelephone();
             Teletubbies tinkyWinky = new Teletubbies(bigTelephone,"Tinky Winky", "Purple");
             Teletubbies dipsy = new Teletubbies(bigTelephone,"Dipsy", "Yellow");
             Teletubbies laaLaa = new Teletubbies(bigTelephone,"Laa-Laa", "Pink");

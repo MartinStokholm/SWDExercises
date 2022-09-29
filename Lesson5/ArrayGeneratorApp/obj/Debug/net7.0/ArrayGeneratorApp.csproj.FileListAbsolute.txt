@@ -1,0 +1,15 @@
+C:\Users\msldk\Desktop\Uni\SoftwareTeknologi\4Semester\SWD\SWDExercises\Lesson5\ArrayGeneratorApp\bin\Debug\net7.0\ArrayGeneratorApp.exe
+C:\Users\msldk\Desktop\Uni\SoftwareTeknologi\4Semester\SWD\SWDExercises\Lesson5\ArrayGeneratorApp\bin\Debug\net7.0\ArrayGeneratorApp.deps.json
+C:\Users\msldk\Desktop\Uni\SoftwareTeknologi\4Semester\SWD\SWDExercises\Lesson5\ArrayGeneratorApp\bin\Debug\net7.0\ArrayGeneratorApp.runtimeconfig.json
+C:\Users\msldk\Desktop\Uni\SoftwareTeknologi\4Semester\SWD\SWDExercises\Lesson5\ArrayGeneratorApp\bin\Debug\net7.0\ArrayGeneratorApp.dll
+C:\Users\msldk\Desktop\Uni\SoftwareTeknologi\4Semester\SWD\SWDExercises\Lesson5\ArrayGeneratorApp\bin\Debug\net7.0\ArrayGeneratorApp.pdb
+C:\Users\msldk\Desktop\Uni\SoftwareTeknologi\4Semester\SWD\SWDExercises\Lesson5\ArrayGeneratorApp\obj\Debug\net7.0\ArrayGeneratorApp.csproj.AssemblyReference.cache
+C:\Users\msldk\Desktop\Uni\SoftwareTeknologi\4Semester\SWD\SWDExercises\Lesson5\ArrayGeneratorApp\obj\Debug\net7.0\ArrayGeneratorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msldk\Desktop\Uni\SoftwareTeknologi\4Semester\SWD\SWDExercises\Lesson5\ArrayGeneratorApp\obj\Debug\net7.0\ArrayGeneratorApp.AssemblyInfoInputs.cache
+C:\Users\msldk\Desktop\Uni\SoftwareTeknologi\4Semester\SWD\SWDExercises\Lesson5\ArrayGeneratorApp\obj\Debug\net7.0\ArrayGeneratorApp.AssemblyInfo.cs
+C:\Users\msldk\Desktop\Uni\SoftwareTeknologi\4Semester\SWD\SWDExercises\Lesson5\ArrayGeneratorApp\obj\Debug\net7.0\ArrayGeneratorApp.csproj.CoreCompileInputs.cache
+C:\Users\msldk\Desktop\Uni\SoftwareTeknologi\4Semester\SWD\SWDExercises\Lesson5\ArrayGeneratorApp\obj\Debug\net7.0\ArrayGeneratorApp.dll
+C:\Users\msldk\Desktop\Uni\SoftwareTeknologi\4Semester\SWD\SWDExercises\Lesson5\ArrayGeneratorApp\obj\Debug\net7.0\refint\ArrayGeneratorApp.dll
+C:\Users\msldk\Desktop\Uni\SoftwareTeknologi\4Semester\SWD\SWDExercises\Lesson5\ArrayGeneratorApp\obj\Debug\net7.0\ArrayGeneratorApp.pdb
+C:\Users\msldk\Desktop\Uni\SoftwareTeknologi\4Semester\SWD\SWDExercises\Lesson5\ArrayGeneratorApp\obj\Debug\net7.0\ArrayGeneratorApp.genruntimeconfig.cache
+C:\Users\msldk\Desktop\Uni\SoftwareTeknologi\4Semester\SWD\SWDExercises\Lesson5\ArrayGeneratorApp\obj\Debug\net7.0\ref\ArrayGeneratorApp.dll
