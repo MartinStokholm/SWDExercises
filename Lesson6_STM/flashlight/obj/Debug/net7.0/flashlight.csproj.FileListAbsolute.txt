@@ -1,0 +1,15 @@
+C:\Users\msldk\Desktop\Uni\SoftwareTeknologi\4Semester\SWD\SWDExercises\Lesson6_STM\flashlight\bin\Debug\net7.0\flashlight.exe
+C:\Users\msldk\Desktop\Uni\SoftwareTeknologi\4Semester\SWD\SWDExercises\Lesson6_STM\flashlight\bin\Debug\net7.0\flashlight.deps.json
+C:\Users\msldk\Desktop\Uni\SoftwareTeknologi\4Semester\SWD\SWDExercises\Lesson6_STM\flashlight\bin\Debug\net7.0\flashlight.runtimeconfig.json
+C:\Users\msldk\Desktop\Uni\SoftwareTeknologi\4Semester\SWD\SWDExercises\Lesson6_STM\flashlight\bin\Debug\net7.0\flashlight.dll
+C:\Users\msldk\Desktop\Uni\SoftwareTeknologi\4Semester\SWD\SWDExercises\Lesson6_STM\flashlight\bin\Debug\net7.0\flashlight.pdb
+C:\Users\msldk\Desktop\Uni\SoftwareTeknologi\4Semester\SWD\SWDExercises\Lesson6_STM\flashlight\obj\Debug\net7.0\flashlight.csproj.AssemblyReference.cache
+C:\Users\msldk\Desktop\Uni\SoftwareTeknologi\4Semester\SWD\SWDExercises\Lesson6_STM\flashlight\obj\Debug\net7.0\flashlight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msldk\Desktop\Uni\SoftwareTeknologi\4Semester\SWD\SWDExercises\Lesson6_STM\flashlight\obj\Debug\net7.0\flashlight.AssemblyInfoInputs.cache
+C:\Users\msldk\Desktop\Uni\SoftwareTeknologi\4Semester\SWD\SWDExercises\Lesson6_STM\flashlight\obj\Debug\net7.0\flashlight.AssemblyInfo.cs
+C:\Users\msldk\Desktop\Uni\SoftwareTeknologi\4Semester\SWD\SWDExercises\Lesson6_STM\flashlight\obj\Debug\net7.0\flashlight.csproj.CoreCompileInputs.cache
+C:\Users\msldk\Desktop\Uni\SoftwareTeknologi\4Semester\SWD\SWDExercises\Lesson6_STM\flashlight\obj\Debug\net7.0\flashlight.dll
+C:\Users\msldk\Desktop\Uni\SoftwareTeknologi\4Semester\SWD\SWDExercises\Lesson6_STM\flashlight\obj\Debug\net7.0\refint\flashlight.dll
+C:\Users\msldk\Desktop\Uni\SoftwareTeknologi\4Semester\SWD\SWDExercises\Lesson6_STM\flashlight\obj\Debug\net7.0\flashlight.pdb
+C:\Users\msldk\Desktop\Uni\SoftwareTeknologi\4Semester\SWD\SWDExercises\Lesson6_STM\flashlight\obj\Debug\net7.0\flashlight.genruntimeconfig.cache
+C:\Users\msldk\Desktop\Uni\SoftwareTeknologi\4Semester\SWD\SWDExercises\Lesson6_STM\flashlight\obj\Debug\net7.0\ref\flashlight.dll
